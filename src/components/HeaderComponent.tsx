@@ -2,7 +2,7 @@ import Logo from '../assets/logo.png'
 
 const HeaderComponent = () => {
     return (
-        <header className='fixed shadow-md w-full h-20 px-2 md:px-4'>
+        <header className='fixed w-full h-20 px-2 md:px-4 bg-slate-600'>
             {/* desktop  */}
             <div className="flex h-full items-center">
                 <div className="h-20 ">
